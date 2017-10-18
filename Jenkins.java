@@ -1,7 +1,7 @@
 public class Jenkins {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		System.out.println("integrating git with jenkins ex");
 
 	}
 
